@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZIYOU - Gaming Gear</title>
+    <title>DanToy Store</title>
     
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,200,300,700,600' rel='stylesheet' type='text/css'>
@@ -47,14 +47,14 @@
   ?>
 
    <header id="header"><!--header-->
-		<div class="header_top" style="background-color:#FF0033">
+		<div class="header_top" style="background-color:#4287f5">
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-6">
 						<div class="contactinfo" >
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> +84 0337 197 520</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> atnstore@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> +84 0964 555 333</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> toysstores@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
@@ -77,8 +77,8 @@
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:black;color:white ">ATN Store
-                            <img src="images/atnlogo.png" width="70" height="70"></a>
+                            <a href="index.php" style="background-color:black;color:white ">DanToy Store
+                            <img src="images/dantoyLogo.jpg" width="70" height="70"></a>
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -113,7 +113,7 @@
 			</div>
 		</div><!--/header-middle-->
 	
-		<div class="header-bottom" style="background-color:#FF0033"><!--header-bottom-->
+		<div class="header-bottom" style="background-color:#4287f5"><!--header-bottom-->
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-9">
@@ -220,7 +220,7 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
-                        <h2>A<span>TN</span></h2>
+                        <h2>Dan<span>Toy Store</span></h2>
                         <p>ATN is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
                              specializing in retailing toy products for children over 13 years old.</p>
                         <div class="footer-social">

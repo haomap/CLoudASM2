@@ -119,10 +119,10 @@ include_once("connection.php");
                 <div class="col-md-12">
                     <div class="brand-wrapper">
                         <div class="brand-list">
-                            <img src="images/atnlogo.png" alt="">
-                            <img src="images/atnlogo.png" alt="">
-                            <img src="images/atnlogo.png" alt="">
-                            <img src="images/atnlogo.png" alt="">
+                            <img src="images/dantoyLogo.jpg" alt="">
+                            <img src="images/dantoyLogo.jpg" alt="">
+                            <img src="images/dantoyLogo.jpg" alt="">
+                            <img src="images/dantoyLogo.jpg" alt="">
                                  
                         </div>
                     </div>
