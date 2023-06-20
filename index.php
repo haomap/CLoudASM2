@@ -61,7 +61,7 @@
 					<div class="col-sm-6">
 						<div class="social-icons pull-right">
 							<ul class="nav navbar-nav">
-								<li><a href="https://www.facebook.com/hill.luck.96"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://www.facebook.com/nguyennhuthao0920"><i class="fa fa-facebook"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-linkedin"></i></a></li>								
 								<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
@@ -141,7 +141,7 @@
                                         <li><a href="?page=supplier_management" style="color:black">Supplier</a></li>
                                     </ul>
                                 </li> 
-							<li><a href="?page=cart" style="color:black">Cart</a></li>
+							<!-- <li><a href="?page=cart" style="color:black">Cart</a></li> -->
                                 <!-- <li><a href="#">Feedback</a></li>
 								<li><a href="#">Contact</a></li> -->
 							</ul>
@@ -221,10 +221,10 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
                         <h2>Dan<span>Toy Store</span></h2>
-                        <p>ATN is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
+                        <p>DanToy Store is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
                              specializing in retailing toy products for children over 13 years old.</p>
                         <div class="footer-social">
-                            <a href="https://www.facebook.com/hill.luck.96" target="_blank"><i class="fa fa-facebook"></i></a>
+                            <a href="https://www.facebook.com/nguyennhuthao0920" target="_blank"><i class="fa fa-facebook"></i></a>
                             <a href="#" target="_blank"><i class="fa fa-twitter"></i></a>
                             <a href="#" target="_blank"><i class="fa fa-youtube"></i></a>
                         </div>
