@@ -54,7 +54,7 @@
 						<div class="contactinfo" >
 							<ul class="nav nav-pills">
 								<li><a href="#"><i class="fa fa-phone"></i> +84 0964 555 333</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> toysstores@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> dantoystores@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
@@ -244,12 +244,12 @@
                 
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-menu">
-                        <h2 class="footer-wid-title">Classify</h2>
+                        <!-- <h2 class="footer-wid-title">Classify</h2>
                         <ul>
                             <li><a href="#">Figure</a></li>
                             <li><a href="#">Robot</a></li>
                             <li><a href="#">Puzzles</a></li> 
-                        </ul>                        
+                        </ul>                         -->
                     </div>
                 </div>
             </div>
@@ -261,7 +261,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; 2023 ATN - Toys Store</p>
+                        <p>&copy; 2023 Dan - Toys Store</p>
                     </div>
                 </div>
                 
