@@ -118,11 +118,11 @@ include_once("connection.php");
             <div class="row">
                 <div class="col-md-12">
                     <div class="brand-wrapper">
-                        <div class="brand-list">
+                        <!-- <div class="brand-list">
                             <img src="images/dantoyLogo.jpg" alt="">
                             <img src="images/dantoyLogo.jpg" alt="">
                             <img src="images/dantoyLogo.jpg" alt="">
-                            <img src="images/dantoyLogo.jpg" alt="">
+                            <img src="images/dantoyLogo.jpg" alt=""> -->
                                  
                         </div>
                     </div>

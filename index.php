@@ -54,7 +54,7 @@
 						<div class="contactinfo" >
 							<ul class="nav nav-pills">
 								<li><a href="#"><i class="fa fa-phone"></i> +84 0964 555 333</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> dantoystores@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> atnshopping223@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
@@ -77,8 +77,8 @@
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:black;color:white ">DanToy Store
-                            <img src="images/dantoyLogo.jpg" width="70" height="70"></a>
+                            <a href="index.php" style="background-color:black;color:white ">ATN Shopping
+                            <!-- <img src="images/dantoyLogo.jpg" width="70" height="70"></a> -->
 						</div>
 					</div>
 					<div class="col-sm-6">
@@ -220,8 +220,8 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6">
                     <div class="footer-about-us">
-                        <h2>Dan<span>Toy Store</span></h2>
-                        <p>DanToy Store is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
+                        <h2>ATN<span>Shopping</span></h2>
+                        <p>ATN Shopping is one of those toy stores that grows fast and stable regardless of favorable or difficult economic situation. ATN store chain was established in 2023,
                              specializing in retailing toy products for children over 13 years old.</p>
                         <div class="footer-social">
                             <a href="https://www.facebook.com/nguyennhuthao0920" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -261,7 +261,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="copyright">
-                        <p>&copy; 2023 Dan - Toys Store</p>
+                        <p>&copy; 2023 ATN Shopping</p>
                     </div>
                 </div>
                 

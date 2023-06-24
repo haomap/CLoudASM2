@@ -2,7 +2,7 @@
     // $conn = mysqli_connect('localhost','root','','cloudasm') 
     // or die("Cannot connect database".mysqli_connect_error());
 
-    $conn = mysqli_connect("co28d739i4m2sb7j.cbetxkdyhwsb.us-east-1.rds.amazonaws.com","qjyikc5pc19x620g","dowlcekrckr1rxj2","z79rnbmx4isefzu0") 
+    $conn = mysqli_connect("eanl4i1omny740jw.cbetxkdyhwsb.us-east-1.rds.amazonaws.com","ljdcf3079dfljyl1","l8cuygys3t6nouaa","n85kk1tp6uq035fm") 
     or die("Cannot connect database".mysqli_connect_error());
 
     mysqli_query($conn, 'SET NAMES "utf8"')
