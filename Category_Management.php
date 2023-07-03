@@ -23,7 +23,7 @@
             }
         ?>
             <form name="frm" method="post" action="">
-            <h1>Product Category</h1>
+            <h1>Category Manager</h1>
             <p>
             <img src="images/add.png" alt="Add new" width="16" height="16" border="0" />
             <a href="?page=add_category"> Add</a>
